@@ -1,0 +1,5 @@
+.example {
+  @apply font-bold;
+  @apply font-mono;
+  @apply text-6xl;
+}
