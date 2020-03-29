@@ -1,6 +1,6 @@
 import { NextPage } from 'next';
-import { Example } from '../components/Example';
+import { Landing } from '../components/Landing';
 
-const Home: NextPage = () => <Example />;
+const Home: NextPage = () => <Landing />;
 
 export default Home;
